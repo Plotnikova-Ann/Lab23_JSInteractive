@@ -4,7 +4,7 @@ body {
 }
 .board {
     display: grid;
-    grid-template-columns: repeat (3, 100px);
+    grid-template-columns: repeat(3, 100px);
     grid-gap: 5px;
     justify-content: center;
     margin: 20px auto;
@@ -25,5 +25,5 @@ body {
 }
 button {
     margin-top: 20px;
-    padding:10px 20px;
+    padding: 10px 20px;
 }
